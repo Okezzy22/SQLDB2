@@ -1,0 +1,51 @@
+row_num,order_id,city,customer_name,sales,unit_price,order_date,order_quantity,discount,STATE
+1,32,Elk Plain,Liz Pelletier,2808.08,107.53,7/15/14,26,0.07,Washington
+2,35,Ames,Julie Creighton,1892.848,155.99,10/22/14,14,0.01,Iowa
+3,65,Pflugerville,Tamara Dahlen,3812.73,115.79,3/17/14,32,0.02,Texas
+4,96,Little Rock,Keith Dawkins,4158.1235,125.99,4/16/12,37,0.01,Arkansas
+5,130,Cleveland,Roy Collins,461.89,150.98,5/7/15,3,0.05,Tennessee
+6,132,Lewiston,Emily Phan,4011.65,130.98,6/10/13,30,0.05,Maine
+7,230,Burleson,Erin Creighton,1118.396,125.99,10/26/13,11,0.06,Texas
+8,231,Hollywood,Sean Braxton,689.74,363.25,9/28/12,2,0.06,Florida
+9,261,Garden City,Sonia Sunley,5677.609,140.99,6/28/13,47,0.04,Kansas
+10,322,Allen Park,Giulietta Weimer,2634.8555,155.99,3/18/15,20,0.08,Michigan
+11,324,Sanford,Frank Gastineau,3872.634,179.99,3/19/15,25,0.02,North Carolina
+12,325,Sanford,Craig Yedwab,884.1275,115.99,10/16/13,9,0.06,Maine
+13,359,Pleasant Grove,Cari Sayre,3659.66,124.49,12/18/12,30,0.08,Utah
+14,417,East Los Angeles,Robert Barroso,540.41,178.47,2/5/12,3,0.1,California
+15,481,Highlands Ranch,Art Foster,4509.3775,115.99,10/7/15,44,0.01,Colorado
+16,483,Rock Island,Clay Rozendal,4965.7595,195.99,7/10/14,30,0.08,Illinois
+17,512,East Point,Sam Craven,1309.53,218.08,5/19/14,6,0.06,Georgia
+18,513,Cleveland,Arthur Prichep,5437.92,150.89,4/30/14,33,0,Ohio
+19,548,Murray,Sung Chung,2753.1925,125.99,9/20/12,26,0.04,Kentucky
+20,614,Camp Springs,Dave Hallsten,3366.1,138.75,11/30/15,24,0.07,Maryland
+21,640,Pasadena,Tamara Chand,4913.69,120.98,1/22/13,39,0.02,Texas
+22,643,Gurnee,Monica Federle,2781.82,138.14,3/24/14,21,0.07,Illinois
+23,644,Auburn,Bill Eplett,1679.58,320.98,4/30/15,5,0.01,New York
+24,710,Ocoee,Susan MacKendrick,4192.88,145.45,1/1/13,29,0.02,Florida
+25,769,Munster,Roy French,4261.94,115.99,6/1/13,37,0.02,Indiana
+26,834,Aurora,Eugene Moren,1813.04,115.99,5/22/12,15,0.01,Colorado
+27,902,Joplin,Meg O'Connel,1925.83,207.48,7/26/12,10,0.09,MO
+28,962,Garden City,Mike Vittorini,4064.05,122.99,5/5/12,33,0.06,Michigan
+29,1028,Fort Dodge,Matt Collins,2021.147,205.99,1/5/12,11,0.01,Iowa
+30,1058,Blacksburg,Jim Epp,469.438,195.99,4/25/13,3,0.07,Virginia
+31,1127,Grove City,Stuart Calhoun,5340.5,110.98,9/18/14,48,0.01,Ohio
+32,1154,Mount Prospect,Sylvia Foulston,4462.23,100.98,2/14/15,44,0.04,Illinois
+33,1191,Westfield,Karl Brown,3532.96,100.8,11/6/14,35,0.08,New Jersey
+34,1285,Mankato,Sally Matthias,3874.12,130.98,5/31/15,27,0,Minnesota
+35,1285,Mankato,Sally Matthias,1452.216,218.75,5/31/15,8,0.05,Minnesota
+36,1287,Roswell,Mitch Willingham,3908.65,105.29,7/4/12,39,0.06,Georgia
+37,1344,Elgin,Jim Radford,2480.9205,155.99,4/15/15,18,0.01,Illinois
+38,1345,Ponca City,Ritsa Hightower,2443.85,100.98,10/27/15,24,0.08,Oklahoma
+39,1346,Owatonna,Theone Pippenger,4789.89,100.98,6/17/15,48,0.09,Minnesota
+40,1411,Norwich,Ed Jacobs,5748.2,160.98,12/20/12,39,0.09,Connecticut
+41,1414,Parker,Carol Darley,4530.96,105.49,8/15/14,44,0.07,Colorado
+42,1445,Novi,Shahid Shariari,1326.09,420.98,1/9/14,3,0,Michigan
+43,1507,Westerville,Harold Ryan,4345.86,152.48,10/13/13,29,0.09,Ohio
+44,1666,Lafayette,Nona Balk,5642.18,315.98,10/17/14,19,0.09,Louisiana
+45,1799,Port Huron,Trudy Schmidt,1187.12,113.98,3/6/12,10,0.06,Michigan
+46,1856,Leawood,Alex Avila,4374.6865,125.99,3/19/15,43,0.05,Kansas
+47,1856,Leawood,Alex Avila,4283.235,125.99,3/19/15,44,0.1,Kansas
+48,1891,Friendswood,Jeremy Ellison,302.36,107.53,12/14/12,3,0.09,Texas
+49,1925,Wichita,Brian Moss,1874.37,276.2,3/4/15,7,0.08,Kansas
+50,1991,West Mifflin,Barry Franz,3491.06,136.98,9/6/15,27,0.09,Pennsylvania
